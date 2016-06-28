@@ -1,0 +1,8 @@
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusTest02\bin\Release\BlueLotusTest02.exe.config
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusTest02\obj\Release\BlueLotusTest02.csprojResolveAssemblyReference.cache
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusTest02\bin\Release\BlueLotusTest02.exe
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusTest02\bin\Release\BlueLotusTest02.pdb
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusTest02\bin\Release\System.Threading.Tasks.Dataflow.dll
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusTest02\bin\Release\System.Threading.Tasks.Dataflow.xml
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusTest02\obj\Release\BlueLotusTest02.exe
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusTest02\obj\Release\BlueLotusTest02.pdb

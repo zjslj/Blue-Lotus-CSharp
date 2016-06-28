@@ -1,0 +1,15 @@
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\bin\Release\BlueLotusWPFApp.exe.config
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\bin\Release\BlueLotusWPFApp.exe
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\bin\Release\BlueLotusWPFApp.pdb
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Release\BlueLotusWPFApp.csprojResolveAssemblyReference.cache
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Release\MainWindow.baml
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Release\MainWindow.g.cs
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Release\App.g.cs
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Release\BlueLotusWPFApp_MarkupCompile.cache
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Release\BlueLotusWPFApp.g.resources
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Release\BlueLotusWPFApp.Properties.Resources.resources
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Release\BlueLotusWPFApp.csproj.GenerateResource.Cache
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Release\BlueLotusWPFApp.exe
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Release\BlueLotusWPFApp.pdb
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\bin\Release\AppSupport.dll
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\bin\Release\AppSupport.pdb

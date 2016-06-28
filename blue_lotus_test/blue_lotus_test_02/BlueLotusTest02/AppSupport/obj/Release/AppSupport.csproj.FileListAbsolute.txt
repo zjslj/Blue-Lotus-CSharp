@@ -1,0 +1,5 @@
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\AppSupport\bin\Release\AppSupport.dll
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\AppSupport\bin\Release\AppSupport.pdb
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\AppSupport\obj\Release\AppSupport.csprojResolveAssemblyReference.cache
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\AppSupport\obj\Release\AppSupport.dll
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\AppSupport\obj\Release\AppSupport.pdb

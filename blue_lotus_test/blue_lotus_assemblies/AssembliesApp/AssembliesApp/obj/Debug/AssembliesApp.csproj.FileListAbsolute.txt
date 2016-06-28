@@ -1,0 +1,1 @@
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_assemblies\AssembliesApp\AssembliesApp\bin\Debug\AssembliesApp.exe.config
