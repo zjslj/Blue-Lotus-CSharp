@@ -1,0 +1,12 @@
+﻿<Window x:Class="BlueLotusWPFApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="GetDate" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" Width="517" Height="77" Click="OnGetDate"/>
+        <TextBlock x:Name="text1" HorizontalAlignment="Left" Margin="10,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="55" Width="498"/>
+        <TextBlock x:Name="text2" HorizontalAlignment="Left" Margin="10,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="507" Height="63"/>
+        <Button Content="UpdateDate" HorizontalAlignment="Left" Margin="0,220,0,0" VerticalAlignment="Top" Width="507" Height="63" Click="OnUpdateDate"/>
+
+    </Grid>
+</Window>

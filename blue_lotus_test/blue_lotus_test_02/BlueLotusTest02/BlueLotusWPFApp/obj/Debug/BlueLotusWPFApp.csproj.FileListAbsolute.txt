@@ -1,0 +1,13 @@
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\bin\Debug\BlueLotusWPFApp.exe.config
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\bin\Debug\BlueLotusWPFApp.exe
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\bin\Debug\BlueLotusWPFApp.pdb
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Debug\BlueLotusWPFApp.csprojResolveAssemblyReference.cache
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Debug\MainWindow.baml
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Debug\MainWindow.g.cs
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Debug\App.g.cs
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Debug\BlueLotusWPFApp_MarkupCompile.cache
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Debug\BlueLotusWPFApp.g.resources
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Debug\BlueLotusWPFApp.Properties.Resources.resources
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Debug\BlueLotusWPFApp.csproj.GenerateResource.Cache
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Debug\BlueLotusWPFApp.exe
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_02\BlueLotusTest02\BlueLotusWPFApp\obj\Debug\BlueLotusWPFApp.pdb
