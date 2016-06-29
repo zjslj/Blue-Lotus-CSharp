@@ -23,3 +23,8 @@ F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\A
 F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\SharedDemo\bin\Debug\SharedDemo.pdb
 F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\SharedDemo\obj\x86\Debug\SharedDemo.dll
 F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\SharedDemo\obj\x86\Debug\SharedDemo.pdb
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\SharedDemo\bin\Debug\SharedDemo.dll
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\SharedDemo\bin\Debug\SharedDemo.pdb
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\SharedDemo\obj\x86\Debug\SharedDemo.csprojResolveAssemblyReference.cache
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\SharedDemo\obj\x86\Debug\SharedDemo.dll
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\SharedDemo\obj\x86\Debug\SharedDemo.pdb

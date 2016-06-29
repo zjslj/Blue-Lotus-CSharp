@@ -52,3 +52,16 @@ C:\Users\Christian\mesh\Pro C# 5.0\newcode\Assemblies\AssemblySamples\DynamicAss
 C:\Users\Christian\mesh\Pro C# 5.0\newcode\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\Wrox.ProCSharp.Assemblies.Properties.Resources.resources
 C:\Users\Christian\mesh\Pro C# 5.0\newcode\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssembly.csproj.GenerateResource.Cache
 F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DynamicAssembly\bin\Debug\DynamicAssembly.exe.config
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DynamicAssembly\bin\Debug\DynamicAssembly.exe.config
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DynamicAssembly\bin\Debug\DynamicAssembly.exe
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DynamicAssembly\bin\Debug\DynamicAssembly.pdb
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssembly.csprojResolveAssemblyReference.cache
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssemblyWindow.baml
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssemblyWindow.g.cs
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\App.g.cs
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssembly_MarkupCompile.cache
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssembly.g.resources
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\Wrox.ProCSharp.Assemblies.Properties.Resources.resources
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssembly.csproj.GenerateResource.Cache
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssembly.exe
+E:\source\repositories\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DynamicAssembly\obj\x86\Debug\DynamicAssembly.pdb
