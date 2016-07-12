@@ -18,7 +18,6 @@ C:\Users\Christian\mesh\Pro C# 5.0\newcode\Assemblies\AssemblySamples\SharedDemo
 C:\Users\Christian\mesh\Pro C# 5.0\newcode\Assemblies\AssemblySamples\SharedDemo\obj\x86\Debug\SharedDemo.pdb
 C:\Users\Christian\mesh\Pro C# 5.0\newcode\Assemblies\AssemblySamples\SharedDemo\bin\Debug\SharedDemo.dll
 C:\Users\Christian\mesh\Pro C# 5.0\newcode\Assemblies\AssemblySamples\SharedDemo\bin\Debug\SharedDemo.pdb
-F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\SharedDemo\obj\x86\Debug\SharedDemo.csprojResolveAssemblyReference.cache
 F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\SharedDemo\bin\Debug\SharedDemo.dll
 F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\SharedDemo\bin\Debug\SharedDemo.pdb
 F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\SharedDemo\obj\x86\Debug\SharedDemo.dll

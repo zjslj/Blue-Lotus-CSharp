@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Wrox.ProCSharp.Assemblies
+namespace Blue.Lotus
 {
   class Program
   {
@@ -11,10 +11,10 @@ namespace Wrox.ProCSharp.Assemblies
       Console.WriteLine(currentDomain.FriendlyName);
       AppDomain secondDomain = AppDomain.CreateDomain("New AppDomain");
       // secondDomain.ExecuteAssembly("AssemblyA.exe");
-      secondDomain.CreateInstance("AssemblyA", "Wrox.ProCSharp.Assemblies.Demo", true,
+      secondDomain.CreateInstance("AssemblyA", "Blue.Lotus.Demo", true,
           BindingFlags.CreateInstance, null, new object[] { 7, 3 }, null, null);
 
-
+      Console.ReadKey();
     }
   }
 }

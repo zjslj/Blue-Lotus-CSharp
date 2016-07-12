@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net.Http;
 using System.Net.Http.Headers;
+using System.Diagnostics;
 
 namespace HttpClientSample
 {
@@ -12,14 +13,20 @@ namespace HttpClientSample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("In main before call to GetData");
-            GetData();
-            Console.WriteLine("Back in main after call to GetData");
+            //Console.WriteLine("In main before call to GetData");
+            //GetData();
+            //Console.WriteLine("Back in main after call to GetData");
+            //Process myProcess = new Process();
+            //myProcess.StartInfo.FileName = "iexplore.exe";
+            //myProcess.StartInfo.Arguments = "http://localhost:63325/";
+            //myProcess.Start();
+            WebBrowser wb = new WebBrowser();
+            
             Console.ReadKey();
         }
         private static async void GetData()
         {
-            HttpClient httpClient = new HttpClient(new MessageHandler("error"));
+            HttpClient httpClient = new HttpClient(new MessageHandler("success"));
             httpClient.DefaultRequestHeaders.Add("Accept", "application/json;odata=verbose");
             Console.WriteLine("Request Headers : ");
             EnumerateHeaders(httpClient.DefaultRequestHeaders);
@@ -72,8 +79,12 @@ namespace HttpClientSample
                 tsc.SetResult(response);
                 return tsc.Task;
             }
+            else
+            {
+                return base.SendAsync(request, cancellationToken);
+            }
             
-            return base.SendAsync(request, cancellationToken);
+           
         }
     }
 }

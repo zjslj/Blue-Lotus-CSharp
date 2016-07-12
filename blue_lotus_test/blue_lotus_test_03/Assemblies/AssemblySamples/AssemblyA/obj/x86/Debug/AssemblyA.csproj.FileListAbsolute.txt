@@ -20,3 +20,9 @@ C:\Users\Christian\mesh\Pro C# 5.0\newcode\Assemblies\AssemblySamples\AssemblyA\
 C:\Users\Christian\mesh\Pro C# 5.0\newcode\Assemblies\AssemblySamples\AssemblyA\obj\x86\Debug\AssemblyA.csprojResolveAssemblyReference.cache
 C:\Users\Christian\mesh\Pro C# 5.0\newcode\Assemblies\AssemblySamples\AssemblyA\obj\x86\Debug\AssemblyA.exe
 C:\Users\Christian\mesh\Pro C# 5.0\newcode\Assemblies\AssemblySamples\AssemblyA\obj\x86\Debug\AssemblyA.pdb
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\AssemblyA\bin\Debug\AssemblyA.exe.config
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\AssemblyA\bin\Debug\AssemblyA.exe
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\AssemblyA\bin\Debug\AssemblyA.pdb
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\AssemblyA\obj\x86\Debug\AssemblyA.csprojResolveAssemblyReference.cache
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\AssemblyA\obj\x86\Debug\AssemblyA.exe
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\AssemblyA\obj\x86\Debug\AssemblyA.pdb

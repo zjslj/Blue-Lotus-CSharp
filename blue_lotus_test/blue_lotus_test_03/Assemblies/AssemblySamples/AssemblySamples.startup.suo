@@ -2,6 +2,8 @@
   "SingleProjectMode": 0,
   "SingleProjectMruCount": 5,
   "MRU": [
+    "DomainTest",
+    "AssemblyA",
     "DynamicAssembly"
   ],
   "MultiProjectConfigurations": {},

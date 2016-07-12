@@ -28,3 +28,11 @@ C:\Users\Christian\mesh\Pro C# 5.0\newcode\Assemblies\AssemblySamples\DomainTest
 C:\Users\Christian\mesh\Pro C# 5.0\newcode\Assemblies\AssemblySamples\DomainTest\obj\x86\Debug\DomainTest.csprojResolveAssemblyReference.cache
 C:\Users\Christian\mesh\Pro C# 5.0\newcode\Assemblies\AssemblySamples\DomainTest\obj\x86\Debug\DomainTest.exe
 C:\Users\Christian\mesh\Pro C# 5.0\newcode\Assemblies\AssemblySamples\DomainTest\obj\x86\Debug\DomainTest.pdb
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DomainTest\bin\Debug\DomainTest.exe.config
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DomainTest\bin\Debug\DomainTest.exe
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DomainTest\bin\Debug\DomainTest.pdb
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DomainTest\bin\Debug\AssemblyA.exe
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DomainTest\bin\Debug\AssemblyA.pdb
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DomainTest\obj\x86\Debug\DomainTest.csprojResolveAssemblyReference.cache
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DomainTest\obj\x86\Debug\DomainTest.exe
+F:\code\github\Blue-Lotus-CSharp\blue_lotus_test\blue_lotus_test_03\Assemblies\AssemblySamples\DomainTest\obj\x86\Debug\DomainTest.pdb

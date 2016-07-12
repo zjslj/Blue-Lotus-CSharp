@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Wrox.ProCSharp.Assemblies
+namespace Blue.Lotus
 {
     public class Demo
     {
@@ -18,6 +18,8 @@ namespace Wrox.ProCSharp.Assemblies
         {
             Console.WriteLine("Main in domain {0} called",
                   AppDomain.CurrentDomain.FriendlyName);
+
+            Console.ReadKey();
         }
     }
 }
