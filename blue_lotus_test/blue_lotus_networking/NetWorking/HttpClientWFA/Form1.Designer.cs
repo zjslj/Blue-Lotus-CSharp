@@ -36,6 +36,7 @@
             this.buttonStop = new System.Windows.Forms.Button();
             this.buttonRefresh = new System.Windows.Forms.Button();
             this.Home = new System.Windows.Forms.Button();
+            this.textBox2 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // textBox1
@@ -51,7 +52,7 @@
             this.webBrowser1.Location = new System.Drawing.Point(12, 91);
             this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser1.Name = "webBrowser1";
-            this.webBrowser1.Size = new System.Drawing.Size(633, 317);
+            this.webBrowser1.Size = new System.Drawing.Size(633, 286);
             this.webBrowser1.TabIndex = 1;
             this.webBrowser1.DocumentCompleted += new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(this.webBrowser1_DocumentCompleted);
             // 
@@ -116,11 +117,20 @@
             this.Home.UseVisualStyleBackColor = true;
             this.Home.Click += new System.EventHandler(this.Home_Click);
             // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(12, 383);
+            this.textBox2.Multiline = true;
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(633, 267);
+            this.textBox2.TabIndex = 8;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(657, 420);
+            this.ClientSize = new System.Drawing.Size(657, 661);
+            this.Controls.Add(this.textBox2);
             this.Controls.Add(this.Home);
             this.Controls.Add(this.buttonRefresh);
             this.Controls.Add(this.buttonStop);
@@ -146,6 +156,7 @@
         private System.Windows.Forms.Button buttonStop;
         private System.Windows.Forms.Button buttonRefresh;
         private System.Windows.Forms.Button Home;
+        private System.Windows.Forms.TextBox textBox2;
     }
 }
 

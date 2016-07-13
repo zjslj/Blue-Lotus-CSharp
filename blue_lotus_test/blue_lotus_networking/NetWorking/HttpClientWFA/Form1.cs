@@ -37,6 +37,8 @@ namespace HttpClientWFA
             {
                 buttonForward.Enabled = false;
             }
+
+            textBox2.Text = webBrowser1.DocumentText;
         }
 
         private void webBrowser1_Navigated(object sender, WebBrowserNavigatedEventArgs e)
